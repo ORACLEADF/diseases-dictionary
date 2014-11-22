@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DiseasesDictionary</string>
+
+    <string name="str_header">اورژانس همراه</string>
+    <string name="str_footer">تهیه کننده : مسعود نایه</string>
+
+</resources>

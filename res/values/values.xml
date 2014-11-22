@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="destination_width">250dip</dimen>
+    <dimen name="destination_height">400dip</dimen>
+
+    <dimen name="destination_width_goods">50dip</dimen>
+    <dimen name="destination_height_goods">100dip</dimen>
+
+    <dimen name="destination_width_goodsgroup">100dip</dimen>
+    <dimen name="destination_height_goodsgroup">100dip</dimen>
+</resources>

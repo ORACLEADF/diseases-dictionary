@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="HeadDao_getAll">
+        <Data>
+            <![CDATA[ SELECT id , name FROM diseases_head h ]]>
+        </Data>
+    </string>
+    <string name="ItemDao_getAll">
+        <Data>
+            <![CDATA[ SELECT priority id, comment FROM diseases_item where  head_id = ? order by head_id,priority  ]]>
+        </Data>
+    </string>
+</resources>

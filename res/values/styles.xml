@@ -1,0 +1,136 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Light">
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+
+    <!--**************************************************************************-->
+    <style name="textBase">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="android:textColor">#ffeae72e</item>
+        <item name="android:textSize">20dip</item>
+    </style>
+
+    <style name="textData" parent="textBase">
+        <item name="android:textColor">#ffeae72e</item>
+    </style>
+
+    <style name="textLabel" parent="textBase">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <!--**************************************************************************-->
+    <style name="image">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:src">@drawable/image_not_found</item>
+    </style>
+    <!--**************************************************************************-->
+
+    <!--**************************************************************************-->
+    <!-- Created By MS.Barzegar-->
+    <style name="lable" parent="@android:style/Widget.TextView">
+        <item name="android:gravity">right</item>
+        <item name="android:layoutDirection">rtl</item>
+        <item name="android:textColor">#FFFF3FFF</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:textSize">16dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:minWidth">310dp</item>
+    </style>
+
+    <style name="Text" parent="@android:style/Widget.TextView">
+        <item name="android:gravity">right</item>
+        <item name="android:layoutDirection">rtl</item>
+        <item name="android:textColor">#F0000FFF</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:textSize">16dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:minWidth">310dp</item>
+    </style>
+
+    <style name="RowStyle">
+        <item name="android:layoutDirection">rtl</item>
+        <item name="android:background">#C0E7F3</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:minHeight">48.5dp</item>
+    </style>
+
+    <style name="Divider">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+
+    <style name="hDivider">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">?android:attr/listDivider</item>
+    </style>
+    <!--**************************************************************************-->
+
+    <!--**************************************************************************-->
+    <!-- Created By Mis Barzegar    Date : 1392 - 06 - 16 -->
+    <style name="LableStyle">
+        <item name="android:textSize">15dp</item>
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:gravity">right</item>
+        <item name="android:layout_marginRight">15dp</item>
+    </style>
+
+    <style name="http">
+        <item name="android:layout_width">10dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:minWidth">10dp</item>
+        <item name="android:minHeight">55dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="dot">
+        <item name="android:layout_width">10dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:text">.</item>
+    </style>
+
+    <style name="ddot">
+        <item name="android:layout_width">10dp</item>
+        <item name="android:layout_height">35dp</item>
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:text">:</item>
+    </style>
+    <!--**************************************************************************-->
+
+    <!--**************************************************************************-->
+    <style name="hBorder">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dip</item>
+        <item name="android:background">#000000</item>
+    </style>
+
+    <style name="vBorder">
+        <item name="android:layout_width">1dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">#000000</item>
+    </style>
+    <!--**************************************************************************-->
+
+</resources>
