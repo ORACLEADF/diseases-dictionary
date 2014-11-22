@@ -16,7 +16,9 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4012cb81-9258-4a9f-92bd-14ba8750cf38" name="Default" comment="" />
+    <list default="true" id="4012cb81-9258-4a9f-92bd-14ba8750cf38" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="diseases-dictionary.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -468,12 +470,12 @@
       <workItem from="1416622992145" duration="107000" />
       <workItem from="1416687631256" duration="736000" />
       <workItem from="1416688839923" duration="732000" />
-      <workItem from="1416692120931" duration="3000" />
+      <workItem from="1416692120931" duration="708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20625000" />
+    <option name="totallyTimeSpent" value="21330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1032" height="748" extended-state="6" />
